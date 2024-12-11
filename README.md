@@ -91,3 +91,6 @@ References: Documentation and tools used.
 **Goal:** Improve the usability of interactive dashboards.
 
 **Next Steps:** Gather user feedback to refine dashboard features and functionality.
+
+
+![image](https://github.com/user-attachments/assets/e21bb063-7f69-4df4-948b-d3c58a1d057e)
